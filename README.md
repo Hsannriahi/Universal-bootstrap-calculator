@@ -36,6 +36,7 @@ It uses standard bootstrap equations to ensure compatibility with any high‑sid
 You can download the Windows executable from the **Releases** section:
 
 👉https://github.com/Hsannriahi/Universal-bootstrap-calculator/releases/tag/v1.0.0
+
 No installation is required.  
 Just run the `.exe`.
 
