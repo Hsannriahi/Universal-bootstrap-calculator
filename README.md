@@ -61,16 +61,6 @@ Just run the `.exe`.
    - Recommended capacitor sizes  
    - All bootstrap design metrics
 
----
-
-## ✅ Screenshot
-
-*(Add your own screenshot here)*  
-Drag your PNG/JPG into this section on GitHub.
-
----
-
-## ✅ Running From Source (Python)
 
 Install PyQt6:
 
